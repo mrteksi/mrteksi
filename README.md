@@ -1,5 +1,4 @@
 ### Hi :wave:, I'm Murat Ekşi .
-<br/>
 
 ## Frontend Developer || Computer Engineer
 
