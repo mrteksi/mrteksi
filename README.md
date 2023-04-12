@@ -36,4 +36,4 @@ I'm a passionate frontend developer and trying to learn more.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrteksi&layout=compact&theme=dracula">
 </details>
 
-[linkedin]: www.linkedin.com/in/murat-eksi
+[linkedin]: https://www.linkedin.com/in/murat-eksi
