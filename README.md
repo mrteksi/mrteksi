@@ -9,13 +9,11 @@ I'm a passionate frontend developer and trying to learn more.
 <li>I'm currently learning Node.js</li>
 <li>:mailbox: <strong> <a href="mailto:muraticf@gmail.com">muraticf@gmail.com</a></strong></li>
 </ul>
-<br/>
 
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
 
-<br/>
 
 ### Tech I Use
 <p>
@@ -27,7 +25,6 @@ I'm a passionate frontend developer and trying to learn more.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="25" height="25">
 </p>
 
-<br/>
 
 <details>
 <summary>:bulb: Github Stats</summary>
