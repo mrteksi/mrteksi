@@ -2,7 +2,6 @@
 
 ## Frontend Developer || Computer Engineer
 
-<br/>
 I'm a passionate frontend developer and trying to learn more.
 <br/>
 <br/>
