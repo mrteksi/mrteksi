@@ -2,7 +2,7 @@
 <br/>
 
 ## Frontend Developer || Computer Engineer
-<hr/>
+
 <br/>
 I'm a passionate frontend developer and trying to learn more.
 <br/>
