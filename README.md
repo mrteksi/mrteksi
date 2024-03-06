@@ -1,12 +1,12 @@
 ### Hi :wave:, I'm Murat Ekşi .
 
-## Frontend Developer || Computer Engineer
+## Mobile Developer || Computer Engineer
 
-I'm a passionate frontend developer and trying to learn more.
+I'm a passionate mobile developer and trying to learn more.
 <br/>
 <br/>
 <ul>
-  <li>I'm currently learning <strong>Node.js</strong></li>
+  <li>I'm currently learning <strong>React Native</strong></li>
 <li>:mailbox: <strong> <a href="mailto:muraticf@gmail.com">muraticf@gmail.com</a></strong></li>
 </ul>
 
