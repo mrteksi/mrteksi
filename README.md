@@ -1,6 +1,6 @@
 ### Hi :wave:, I'm Murat Ekşi .
 
-## Mobile Developer || Computer Engineer
+##  Computer Engineer
 
 I'm a passionate mobile developer and trying to learn more.
 <br/>
