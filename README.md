@@ -2,7 +2,7 @@
 
 ##  Computer Engineer
 
-I'm a passionate mobile developer and trying to learn more.
+I'm a passionate developer and trying to learn more.
 <br/>
 <br/>
 <ul>
